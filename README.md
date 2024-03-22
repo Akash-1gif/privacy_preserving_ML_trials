@@ -7,8 +7,8 @@ Reason: tf-encrypted library works on tensorflow==2.9.1 version, and I can't ins
 
 
 Status so far:
-In Untitled.ipynb, I encrypted a list using tenseal library and I stored the encrypted list in demo_encrypted_objects. After that I fetched the same encrypted list and decrypted in receiver.ipynb
+In Untitled.ipynb, encrypted a list using tenseal library and stored the encrypted list in demo_encrypted_objects. Fetched the same encrypted list and decrypted in receiver.ipynb
 
-After this, I encrypted iris dataset, but I'm unable to load the encrypted data into any other file (file such as .json or .joblib or .txt)
+Encrypted iris dataset, but I'm unable to load the encrypted data into any other file (file such as .json or .joblib or .txt)
 
 Trained a Logistic Regression model using encrypted data (tested with plain data)
